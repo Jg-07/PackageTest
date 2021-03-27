@@ -10305,11 +10305,17 @@ h1 {
   left: 38%;
   top: 200px;
   color: white;
+  background-color: rgb(34, 34, 34);
+  padding: 10px;
+  border-radius: 20px;
 }
 button {
   position: absolute;
   left: 43.5%;
   top: 280px;
+}
+.ssd {
+  border-radius: 10px;
 }
 
 
