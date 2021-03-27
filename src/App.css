@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(to right, #ee0979, #ff6a00);
+  height: 100vh;
+}
+h1 {
+  position: absolute;
+  left: 38%;
+  top: 200px;
+  color: white;
+}
+button {
+  position: absolute;
+  left: 43.5%;
+  top: 280px;
+}

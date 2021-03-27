@@ -1,5 +1,5 @@
 {
-  "name": "PackageTest",
+  "name": "packagetest",
   "version": "1.0.0",
   "description": "",
   "main": "App.js",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Jg-07/PackageTest#readme",
   "dependencies": {
     "bootstrap": "^4.6.0",
-    "parcel-bundler": "^1.12.5"
+    "parcel-bundler": "^1.12.5",
+    "src": "^1.1.2"
   }
 }
