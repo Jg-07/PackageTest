@@ -1,0 +1,24 @@
+{
+  "name": "PackageTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "build": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jg-07/PackageTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jg-07/PackageTest/issues"
+  },
+  "homepage": "https://github.com/Jg-07/PackageTest#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
